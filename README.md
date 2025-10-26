@@ -379,7 +379,7 @@ Both algorithms executed in sub-millisecond to low-millisecond range.
 
 ---
 
-## Conclusions and Recommendations
+## Conclusions 
 
 ###  Key Insights
 
